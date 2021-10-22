@@ -3,6 +3,7 @@ so starting my DSA journey with kunal kushwaha course
 starting from OCT-09 
 completed my git and gitub tutorial
 oct-10 
-will be starting with DSA
-completed basics of java 
-and first java program
+-will be starting with DSA
+-completed basics of java 
+-first java program
+- added assignments for (first java)
