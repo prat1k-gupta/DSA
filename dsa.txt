@@ -1,0 +1,10 @@
+so starting my DSA journey with kunal kushwaha course 
+#100daysdsachallenge
+starting from OCT-09 
+completed my git and gitub tutorial
+oct-10 
+-will be starting with DSA
+-completed basics of java 
+-first java program
+- added assignments for (first java)
+-done with looping
