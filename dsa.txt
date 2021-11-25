@@ -7,4 +7,4 @@ oct-10
 -completed basics of java 
 -first java program
 - added assignments for (first java)
--done with looping
+- done with looping
