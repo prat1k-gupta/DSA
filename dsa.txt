@@ -8,3 +8,4 @@ oct-10
 -first java program
 - added assignments for (first java)
 - done with looping
+- done with functions
